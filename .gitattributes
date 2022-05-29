@@ -4,3 +4,5 @@
 'WindowsNoEditor/Osou/Content/Paks/Osou-WindowsNoEditor.pak' filter=lfs diff=lfs merge=lfs -text
 *.exe filter=lfs diff=lfs merge=lfs -text
 *.pak filter=lfs diff=lfs merge=lfs -text
+WindowsNoEditor/Osou/Content/Paks/Osou-WindowsNoEditor.pak filter=lfs diff=lfs merge=lfs -text
+WindowsNoEditor/Osou/Binaries/Win64/Osou.exe filter=lfs diff=lfs merge=lfs -text
